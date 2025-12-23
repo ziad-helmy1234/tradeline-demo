@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "title": "Tradeline Puzzle",
+    "genre": "Brain & Logic",
+    "description": "A minimalist sliding puzzle featuring iconic Apple device silhouettes.",
+    "image": "/images/puzzle.png",
+    "status": "Coming Soon"
+  },
+  {
+    "id": "2",
+    "title": "Circuit Runner",
+    "genre": "Arcade",
+    "description": "Navigate through a motherboard circuit in this high-speed infinite runner.",
+    "image": "/images/runner.png",
+    "status": "Demo Only"
+  },
+  {
+    "id": "3",
+    "title": "Spec Matcher",
+    "genre": "Educational",
+    "description": "Test your knowledge by matching specs to the correct iPhone models.",
+    "image": "/images/matcher.png",
+    "status": "Preview"
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "1",
+    "name": "iPhone 17 Pro Max",
+    "brand": "Apple",
+    "price": "EGP 94,000.00",
+    "colors": ["Graphite", "Silver", "Gold"],
+    "materials": ["Glass", "Aluminum"],
+    "features": ["Face ID", "120Hz Display", "5G", "Triple Camera"],
+    "image": "/images/iphone17.png",
+    "history": [
+      "Bought on 20-Dec-2025",
+      "Warranty Active",
+      "Last service: none"
+    ],
+    "location": "New York, USA",
+    "health": "Good"
+  },
+  {
+    "id": "2",
+    "name": "iPhone 16 Pro Max",
+    "brand": "Apple",
+    "price": "EGP 83,500.00",
+    "colors": ["Graphite", "Silver"],
+    "materials": ["Glass", "Aluminum"],
+    "features": ["Face ID", "90Hz Display", "5G", "Dual Camera"],
+    "image": "/images/iphone16.png",
+    "history": [
+      "Bought on 01-Dec-2024",
+      "Warranty Expired",
+      "Last service: Screen replaced"
+    ],
+    "location": "Los Angeles, USA",
+    "health": "Good"
+  },
+  {
+    "id": "jbl-charge-6",
+    "name": "JBL Charge 6",
+    "brand": "JBL",
+    "price": "EGP 9,975.00",
+    "image": "/images/jbl.png",
+    "colors": ["Black", "Red", "Blue"],
+    "features": ["Powerful bass", "Waterproof", "20h battery"]
+  },
+  {
+    "id": "beats-studio-pro",
+    "name": "Beats Studio Pro",
+    "brand": "Beats",
+    "price": "EGP 23,999.00",
+    "image": "/images/beats.png",
+    "colors": ["Black", "Sandstone"],
+    "features": ["Spatial Audio", "Noise Cancelling", "USB-C lossless"]
+  }
+]

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "iPhone Photography Workshop",
+    "date": "March 22, 2026",
+    "time": "6:00 PM",
+    "location": "Tradeline Mall Branch",
+    "type": "In-Store",
+    "description": "Learn how to take professional photos using your iPhone."
+  },
+  {
+    "id": 2,
+    "title": "Device Health & Battery Care",
+    "date": "March 25, 2026",
+    "time": "5:00 PM",
+    "location": "Online (Live Stream)",
+    "type": "Online",
+    "description": "Tips to extend battery life and monitor your device health."
+  },
+  {
+    "id": 3,
+    "title": "Smart Home Setup Basics",
+    "date": "March 29, 2026",
+    "time": "7:00 PM",
+    "location": "Tradeline Downtown",
+    "type": "In-Store",
+    "description": "Connect and control your smart devices easily."
+  }
+]
